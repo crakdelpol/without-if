@@ -24,7 +24,7 @@ arrayOfIntegers.forEach((integer) => {
 console.log(counter); //5
 ```
 
-## challenge two
+## Challenge two
 
 Write a function that takes a date object argument (like new Date()) and returns the string “weekend” or “weekday”.
 
